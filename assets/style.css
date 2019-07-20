@@ -1,0 +1,42 @@
+html{
+	height: 100%;
+}
+body{
+	background: linear-gradient(90deg, #4b6cb7, #182848 60%);
+	color: #fff;
+	font-family: arial;
+}
+#container{
+	background-color: rgba(0,0,0,0.1);
+	border: 1px solid #aaa;
+	border-radius: 10px;
+	margin: 0 auto;
+	margin-top: 80px;
+	padding: 10px;
+	width: 500px;
+}
+.judul{
+	border-bottom: 1px solid #fff;
+	margin-bottom: 30px;
+	text-align: center;
+}
+.judul h2{
+	font-weight: normal;
+}
+.copy{
+	font-size: 12px;
+	margin-bottom: -3px;
+	padding-top: 20px;
+	text-align: center;
+}
+.hasil {
+	font-style: italic;
+	font-weight: bold;
+}
+input[type=text] {
+	background-color: rgba(0,0,0,0.1);
+	border: 1px solid #aaa;
+	border-radius: 3px;
+	color: #fff;
+	padding: 2px;
+}
