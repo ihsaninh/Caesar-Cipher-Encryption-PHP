@@ -1,4 +1,4 @@
-# Cipher-Encryption-PHP
+# Caesar-Cipher-Encryption-PHP
 Make Caesar Cipher Encryption with PHP and Ajax
 
 ## Introduction
